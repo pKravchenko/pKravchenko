@@ -4,7 +4,7 @@ I'm a software engineer with a passion for crafting modern UI components using .
 
 ## 🧑‍💻 Tech Stack
 - **Languages:** C#
-- **Frameworks:** .NET, WinForms, WPF, Blazor
+- **Frameworks:** .NET, WinForms, WPF, Blazor, .NET Maui
 - **Other:** AI/ML, UI/UX, Component Libraries
 
 ## 🛠 What I Do
