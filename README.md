@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pavel Kravchenko 👋
 
-<!--
-**pKravchenko/pKravchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a passion for crafting modern UI components using .NET technologies. My expertise covers WinForms, WPF, Blazor, and AI, and I enjoy building reusable libraries and tools that enhance desktop and web projects. While I do create applications for myself, my main focus is on developing robust and user-friendly UI components.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Tech Stack
+- **Languages:** C#
+- **Frameworks:** .NET, WinForms, WPF, Blazor
+- **Other:** AI/ML, UI/UX, Component Libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I Do
+- Design and develop UI components for desktop and web
+- Explore new ways to integrate AI into user experiences
+- Build reusable tools and libraries
+
+## ☕️ About Me
+- Coffee lover
+- Avid traveler & explorer
+- Amateur photographer (always seeking the perfect shot!)
+
+---
+
+Thanks for stopping by! 🚀
