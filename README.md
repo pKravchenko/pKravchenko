@@ -13,9 +13,9 @@ I'm a software engineer with a passion for crafting modern UI components using .
 - Build reusable tools and libraries
 
 ## ☕️ About Me
-- Coffee lover
-- Avid traveler & explorer
-- Amateur photographer (always seeking the perfect shot!)
+- True coffee enthusiast  
+- Passionate about travel and food  
+- Love capturing moments with my camera and flying my drone  
 
 ---
 
