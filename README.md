@@ -15,5 +15,3 @@ I'm a software engineer with a passion for crafting modern UI components using .
 ## ☕️ About Me
 - Passionate about travel,  food and coffee  
 - Love capturing moments with my camera and flying my drone  
-
----
